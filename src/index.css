@@ -1,23 +1,69 @@
 body {
   margin: 0;
-  padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  padding: 40px;
+  padding: 5% 10%;
+  text-transform: uppercase;
 }
 
-body * {
-  font-size: 80px;
+body,
+button,
+thead td,
+input {
+	color: #000;
+	font-size: 1rem;
+  font-weight: bold;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+input,
+button,
+td {
+	border: 2px solid #656565;
+	outline: none;
 }
 
+input,
 button {
-  margin-right: 40px;
+	width: 30%;
+	padding: 0.5rem 1rem;
+  box-sizing: border-box;
+  min-height: 40px;
+}
+
+.controls {
+	text-align: center;
+	margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+table,
+h1 {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+tbody tr td:last-of-type,
+tfoot td:last-of-type {
+	text-align: right;
+}
+
+h1 {
+	border-bottom: 3px solid #ccc;
+	margin-bottom: 1rem;
+}
+
+td {
+	width: 50%;
+  padding: 0.5rem;
+}
+
+tfoot td,
+thead td,
+h1 {
+	font-weight: bold;
+	color: #ff0000;
+}
+
+tfoot td:first-of-type {
+	border: none;
+	text-align: right;
 }
