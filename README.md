@@ -23,15 +23,15 @@
 `yarn add @babel/plugin-proposal-decorators mobx mobx-react mobx-react-devtools --dev`
 
 ## Список уроков:
-- MobX & React #0 Введение (Introduction)
-- MobX & React #1 Установка окружения (Setup Environment​)
-- MobX & React #2 Наблюдаемое и наблюдатель (Observable & Observer)
-- MobX & React #3 Вычисляемые значения и реакции (Computed Values & Reactions)
-- MobX & React #4 Наблюдаемые Объект и Массив (Observable Object & Array)
-- MobX & React #5 Действия (Actions)
-- MobX & React #6 Повторяем изученное (Summarize)
-- MobX & React #7 Асинхронные запросы (Async Requests)
-- MobX & React #8 Пользовательские реакции (Custom Reactions)
+- [#0 Введение (Introduction)](https://youtu.be/SKy3vXLh8A8)
+- [#1 Установка окружения (Setup Environment​)](https://youtu.be/XLo987DV4uk)
+- [#2 Наблюдаемое и наблюдатель (Observable & Observer)](https://youtu.be/B1Np7xzLG4o)
+- [#3 Вычисляемые значения и реакции (Computed Values & Reactions)](https://youtu.be/EXsyEgNmDoI)
+- [#4 Наблюдаемые Объект и Массив (Observable Object & Array)](https://youtu.be/hkvzZz3j3Lo)
+- [#5 Действия (Actions)](https://youtu.be/tDjf6loGNSo)
+- [#6 Повторяем изученное (Summarize)](https://youtu.be/P74GHpVxQSs)
+- [#7 Асинхронные запросы (Async Requests)](https://youtu.be/6m8VJLjc1qg)
+- [#8 Пользовательские реакции (Custom Reactions)](https://youtu.be/YBaDerUNQCw)
 
 ## Автор курса в социальных сетях:
 Social network | Link to Profile
