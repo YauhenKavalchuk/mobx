@@ -30,7 +30,7 @@
 - Установите зависимости: `yarn install`
 - Запустите проект: `yarn start`
 
-## Дополнительные комманды:
+### Дополнительные комманды:
 - Установить зависимости проекта:
 
 `yarn add @babel/plugin-proposal-decorators mobx mobx-react mobx-react-devtools --dev`
